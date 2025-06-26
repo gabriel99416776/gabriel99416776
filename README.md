@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-sousa-alves-122321249/)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-sousa-alves-122321249/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585999416776&text=Olá!)](https://api.whatsapp.com/send?phone=5585999416776&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielfortaleza4@gmail.com)](mailto:gabrielfortaleza4@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gabriel_fortaleza36@hotmail.com)](mailto:gabriel_fortaleza36@hotmail.com)
 
     Olá meu nome é João Gabriel, Desenvolvedor Front-end e apaixonado por hardware e manutenção de PCs.
     /
