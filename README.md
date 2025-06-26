@@ -1,14 +1,13 @@
-# :man_technologist: Luiz Carlos Abbott Galvão Neto
+# :man_technologist: João Gabriel de Sousa Alves
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)](https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz7401@gmail.com)](mailto:luiz7401@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-sousa-alves-122321249/)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-sousa-alves-122321249/))]([https://www.linkedin.com/in/luiz-carlos-abbott-galvão-neto-21a93b148/](https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-sousa-alves-122321249/))
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585999416776&text=Olá!)](https://api.whatsapp.com/send?phone=5585999416776&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielfortaleza4@gmail.com)](mailto:gabrielfortaleza4@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:luizcarlos_abbott@hotmail.com)](mailto:luizcarlos_abbott@hotmail.com)
 
-    Olá meu nome é Luiz Carlos, Desenvolvedor Fullstack JavaScript e aspirante a DevOps.
+    Olá meu nome é João Gabriel, Desenvolvedor Front-end e apaixonado por hardware e manutenção de PCs.
     /
-    Hello my name is Luiz Carlos, Fullstack JavaScript Developer and aspiring DevOps.
+    Hello, my name is João Gabriel, Front-end Developer and passionate about hardware and PC maintenance.
 
 ## Conhecimentos / Knowledges
 
