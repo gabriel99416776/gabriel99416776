@@ -1,4 +1,4 @@
-# :man_technologist: João Gabriel de Sousa Alves
+# :man_technologist: João Gabriel de Sousa Alves.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-sousa-alves-122321249/)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-sousa-alves-122321249/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585999416776&text=Olá!)](https://api.whatsapp.com/send?phone=5585999416776&text=Olá!)
